@@ -1,8 +1,8 @@
-## Online code editor for HTML, CSS and Javascript to discover frontend code
-
 <div align="center">
-  <img alt="Demo" src="./src/Assets/test.png"/>
-</div>
+
+# Editor.io
+
+## Online code editor for HTML, CSS and Javascript to discover frontend code
 
 ### Features:
 
